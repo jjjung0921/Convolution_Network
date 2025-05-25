@@ -8,7 +8,7 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
+.idea
 .venv
 *.h5
 *.hdf5
@@ -16,5 +16,3 @@ __pycache__/
 *.h5ad.gz
 *.h5ad.gz.part
 *.h5ad.gz.part.tmp
-./dataset/train/*
-./dataset/validation/*
